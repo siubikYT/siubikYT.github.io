@@ -149,14 +149,16 @@
   <p>&copy; siubikYT. All rights reserved.</p>
 </footer>
 <script>
-  function toggleInfo(button) {
-    const info = button.nextElementSibling;
-    if (info.style.display === 'block') {
-      info.style.display = 'none';
-      button.textContent = 'Show More';
-    } else {
-      info.style.display = 'block';
-      button.textContent = 'Show Less';
+  document.querySelectorAll('.show-more').forEach(button => {
+            button.addEventListener('click', () => {
+                const targetId = button.getAttribute('data-project');
+                const infoSection = document.getElementById(targetId);
+                if (infoSection.style.display === 'block') {
+                    infoSection.style.display = 'none';
+                    button.textContent = 'Show More';
+                } else {
+                    infoSection.style.display = 'block';
+                    button.textContent = 'Show Less';
     }
   }
 </script>
