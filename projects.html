@@ -110,7 +110,7 @@
       <button class="show-more" onclick="toggleInfo(this)">Show More</button>
       <div class="more-info">
         <p>SPECS:<br>
-           <div>
+           <br>
            RAM: 7 bytes of binary cells.<br>
            CLOCK: Not clocked, but can be changed quite easily to be.<br>
            ALU: 8 bit up to 256 decimal numbers. A+B, A-B, A XOR B, A OR B, A AND B<br>
@@ -118,7 +118,7 @@
            PROGRAM RAM: However much you program. You need to build the program your self.<br>
            CACHE: 1 byte (ALU buffer to RAM)<br>
            Instructions:<br>
-           <div>
+           <br>
            0000 - ADD<br>
            0001 - SUB<br>
            0010 - A XOR B<br>
@@ -149,18 +149,14 @@
   <p>&copy; siubikYT. All rights reserved.</p>
 </footer>
 <script>
-  document.querySelectorAll('.show-more').forEach(button => {
-            button.addEventListener('click', () => {
-                const targetId = button.getAttribute('data-project');
-                const infoSection = document.getElementById(targetId);
-                if (infoSection.style.display === 'block') {
-                    infoSection.style.display = 'none';
-                    button.textContent = 'Show More';
-                } else {
-                    infoSection.style.display = 'block';
-                    button.textContent = 'Show Less';
-    }
-  }
+  function toggleInfo(button) {
+            const info = button.nextElementSibling;
+            if (info.style.display === 'block') {
+                info.style.display = 'none';
+                button.textContent = 'Show More';
+            } else {
+                info.style.display = 'block';
+                button.textContent = 'Show Less';
 </script>
 </body>
 </html>
