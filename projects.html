@@ -150,13 +150,15 @@
 </footer>
 <script>
   function toggleInfo(button) {
-            const info = button.nextElementSibling;
-            if (info.style.display === 'block') {
-                info.style.display = 'none';
-                button.textContent = 'Show More';
-            } else {
-                info.style.display = 'block';
-                button.textContent = 'Show Less';
+    const info = button.nextElementSibling;
+    if (info.style.display === 'block') {
+      info.style.display = 'none';
+      button.textContent = 'Show More';
+    } else {
+      info.style.display = 'block';
+      button.textContent = 'Show Less';
+    }
+  }
 </script>
 </body>
 </html>
