@@ -1,126 +1,549 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Hardware Engineer Portfolio">
-    <title>Digital-Logic.xyz</title>
-    <link rel="icon" type="image/x-icon" href="/images/icon.png">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #444;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        nav {
-            background-color: #333;
-            overflow: hidden;
-        }
-        nav a {
-            float: left;
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        nav a:hover {
-            background-color: #575757;
-        }
-        .container {
-            padding: 20px;
-        }
-        .section {
-            margin: 20px 0;
-            padding: 20px;
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        .section h2 {
-            margin: 0 0 10px;
-            color: #444;
-        }
-        .project-list {
-            list-style: none;
-            padding: 0;
-        }
-        .project-item {
-            margin: 10px 0;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            background-color: #f9f9f9;
-        }
-        .project-item h3 {
-            margin: 0;
-            font-size: 1.2em;
-        }
-        .project-item p {
-            margin: 5px 0 0;
-            color: #555;
-        }
-        footer {
-            background-color: #222;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Hardware Engineer Portfolio">
+  <title>Digital-Logic.xyz</title>
+  <link rel="icon" type="image/x-icon" href="/images/icon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <style>
+    :root {
+      --primary: #2a2f4f;
+      --secondary: #917fb3;
+      --accent: #7c73e6;
+      --light: #f8f9fa;
+      --dark: #212529;
+      --success: #28a745;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      transition: all 0.3s ease;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f0f2f5;
+      color: var(--dark);
+      line-height: 1.6;
+      overflow-x: hidden;
+      padding-bottom: 60px;
+    }
+
+    header {
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      color: white;
+      padding: 2rem 0;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    header::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: repeating-linear-gradient(
+              45deg,
+              rgba(255, 255, 255, 0.05),
+              rgba(255, 255, 255, 0.05) 10px,
+              transparent 10px,
+              transparent 20px
+      );
+      z-index: 1;
+    }
+
+    header .content {
+      position: relative;
+      z-index: 2;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    header p {
+      font-size: 1.2rem;
+      opacity: 0.9;
+    }
+
+    nav {
+      background-color: var(--dark);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    nav .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 1rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .logo {
+      font-weight: bold;
+      color: white;
+      text-decoration: none;
+      font-size: 1.2rem;
+      padding: 1rem 0;
+    }
+
+    .nav-links {
+      display: flex;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: white;
+      text-decoration: none;
+      padding: 1rem;
+      display: inline-block;
+      position: relative;
+    }
+
+    .nav-links a::after {
+      content: '';
+      position: absolute;
+      width: 0;
+      height: 2px;
+      bottom: 0;
+      left: 50%;
+      background-color: var(--accent);
+      transition: all 0.3s ease;
+      transform: translateX(-50%);
+    }
+
+    .nav-links a:hover::after {
+      width: 70%;
+    }
+
+    .menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .section {
+      margin: 2rem 0;
+      padding: 2rem;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      transform: translateY(0);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    }
+
+    .section h2 {
+      margin-bottom: 1.5rem;
+      color: var(--primary);
+      font-size: 1.8rem;
+      position: relative;
+      padding-bottom: 0.5rem;
+    }
+
+    .section h2::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 3px;
+      width: 60px;
+      background: linear-gradient(90deg, var(--accent), transparent);
+    }
+
+    .project-list {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .project-item {
+      padding: 1.5rem;
+      border-radius: 8px;
+      background-color: #f9f9f9;
+      border-left: 4px solid var(--accent);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s ease;
+    }
+
+    .project-item:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .project-item h3 {
+      margin: 0 0 0.8rem 0;
+      font-size: 1.3rem;
+      color: var(--primary);
+    }
+
+    .project-item p {
+      margin: 0;
+      color: #666;
+      line-height: 1.5;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .contact-card {
+      padding: 1.5rem;
+      background-color: #f9f9f9;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s ease;
+    }
+
+    .contact-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .contact-card i {
+      font-size: 2rem;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+
+    .contact-card a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+      transition: all 0.3s ease;
+    }
+
+    .contact-card a:hover {
+      color: var(--accent);
+    }
+
+    footer {
+      background-color: var(--dark);
+      color: white;
+      text-align: center;
+      padding: 1rem 0;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .fade-in {
+      animation: fadeIn 1s ease;
+    }
+
+    .slide-up {
+      animation: slideUp 0.8s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(40px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Particle background */
+    .particles {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      z-index: 0;
+    }
+
+    .particle {
+      position: absolute;
+      background-color: rgba(255, 255, 255, 0.5);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+
+    /* Skill bars */
+    .skills {
+      margin-top: 1.5rem;
+    }
+
+    .skill {
+      margin-bottom: 1rem;
+    }
+
+    .skill-name {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0.3rem;
+    }
+
+    .skill-bar {
+      height: 8px;
+      background-color: #e9ecef;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .skill-progress {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent), var(--secondary));
+      border-radius: 4px;
+      transition: width 1.5s ease;
+      width: 0;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .menu-toggle {
+        display: block;
+      }
+
+      .nav-links {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: var(--dark);
+        flex-direction: column;
+        text-align: center;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.5s ease;
+      }
+
+      .nav-links.active {
+        max-height: 300px;
+      }
+
+      .project-list {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Digital-Logic.xyz</h1>
-        <p>Hardware Engineering</p>
-    </header>
-    <nav>
-        <a href="about.html">About Me</a>
-        <a href="projects.html">Projects</a>
-        <a href="contact.html">Contact</a>
-        <a href="JSMine.html">JSMine</a>
-    </nav>
-    <div class="container">
-        <section class="section">
-            <h2>About Me</h2>
-            <p>I'm passionate about hardware engineering with a deep interest in astrophysics and nuclear physics. I enjoy designing complex systems and exploring the intersection of technology and science.</p>
-        </section>
-        <section class="section">
-            <h2>Recent Projects</h2>
-            <ul class="project-list">
-                <li class="project-item">
-                    <h3>8-bit CPU</h3>
-                    <p>An 8-bit CPU designed from scratch, featuring a custom instruction set.</p>
-                </li>
-                <li class="project-item">
-                    <h3>OakNet</h3>
-                    <p>A project in a roblox experience called "Oaklands". A 8x8 LED matrix with keyboard input and HTTP.</p>
-                </li>
-            </ul>
-        </section>
-        <section class="section">
-            <h2>Contact</h2>
-            <p>Email: siubikyt@digital-logic.xyz</p>
-            <p>GitHub: <a href="https://github.com/siubikyt" target="_blank">github.com/siubikyt</a></p>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 siubikYT. All rights reserved.</p>
-    </footer>
-    <script>
+<header>
+  <div class="particles" id="particles"></div>
+  <div class="content">
+    <h1 class="animate__animated animate__fadeInDown">Digital-Logic.xyz</h1>
+    <p class="animate__animated animate__fadeInUp">Hardware Engineering & Digital Systems</p>
+  </div>
+</header>
 
-        console.log('Welcome to my portfolio site!');
-    </script>
+<nav>
+  <div class="container">
+    <a href="index.html" class="logo">DL.xyz</a>
+    <button class="menu-toggle" id="menuToggle">
+      <i class="fas fa-bars"></i>
+    </button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="about.html">About Me</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="JSMine.html">JSMine</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+  <section class="section fade-in">
+    <h2>About Me</h2>
+    <p>I'm passionate about hardware engineering with a deep interest in astrophysics and nuclear physics. I enjoy designing complex systems and exploring the intersection of technology and science.</p>
+
+    <div class="skills">
+      <div class="skill">
+        <div class="skill-name">
+          <span>Hardware Design</span>
+          <span>90%</span>
+        </div>
+        <div class="skill-bar">
+          <div class="skill-progress" data-width="90"></div>
+        </div>
+      </div>
+
+      <div class="skill">
+        <div class="skill-name">
+          <span>Digital Logic</span>
+          <span>85%</span>
+        </div>
+        <div class="skill-bar">
+          <div class="skill-progress" data-width="85"></div>
+        </div>
+      </div>
+
+      <div class="skill">
+        <div class="skill-name">
+          <span>CPU Architecture</span>
+          <span>80%</span>
+        </div>
+        <div class="skill-bar">
+          <div class="skill-progress" data-width="80"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section slide-up">
+    <h2>Recent Projects</h2>
+    <ul class="project-list">
+      <li class="project-item">
+        <h3><i class="fas fa-microchip"></i> 8-bit CPU</h3>
+        <p>An 8-bit CPU designed from scratch, featuring a custom instruction set and ALU architecture.</p>
+      </li>
+      <li class="project-item">
+        <h3><i class="fas fa-network-wired"></i> OakNet</h3>
+        <p>A project in a roblox experience called "Oaklands". A 8x8 LED matrix with keyboard input and HTTP capabilities.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="section fade-in">
+    <h2>Contact</h2>
+    <div class="contact-grid">
+      <div class="contact-card">
+        <i class="fas fa-envelope"></i>
+        <p>Email</p>
+        <a href="mailto:siubikyt@digital-logic.xyz">siubikyt@digital-logic.xyz</a>
+      </div>
+      <div class="contact-card">
+        <i class="fab fa-github"></i>
+        <p>GitHub</p>
+        <a href="https://github.com/siubikyt" target="_blank">github.com/siubikyt</a>
+      </div>
+    </div>
+  </section>
+</div>
+
+<footer>
+  <p>&copy; 2024 siubikYT. All rights reserved.</p>
+</footer>
+
+<script>
+  document.getElementById('menuToggle').addEventListener('click', function() {
+    document.getElementById('navLinks').classList.toggle('active');
+  });
+  
+  window.addEventListener('load', function() {
+    const skillBars = document.querySelectorAll('.skill-progress');
+    skillBars.forEach(bar => {
+      const width = bar.getAttribute('data-width');
+      setTimeout(() => {
+        bar.style.width = width + '%';
+      }, 300);
+    });
+  });
+  
+  function createParticles() {
+    const particlesContainer = document.getElementById('particles');
+    const particleCount = 50;
+
+    for (let i = 0; i < particleCount; i++) {
+      const particle = document.createElement('div');
+      particle.classList.add('particle');
+      
+      const size = Math.random() * 4 + 2;
+      particle.style.width = size + 'px';
+      particle.style.height = size + 'px';
+      
+      const xPos = Math.random() * 100;
+      const yPos = Math.random() * 100;
+      particle.style.left = xPos + '%';
+      particle.style.top = yPos + '%';
+      
+      particle.style.opacity = Math.random() * 0.6 + 0.2;
+      
+      const animDuration = Math.random() * 20 + 10;
+      particle.style.animation = `floatParticle ${animDuration}s linear infinite`;
+
+      particlesContainer.appendChild(particle);
+      
+      const keyframes = `
+                    @keyframes floatParticle {
+                        0% {
+                            transform: translate(0, 0) rotate(0deg);
+                        }
+                        25% {
+                            transform: translate(${Math.random() * 20}px, ${Math.random() * 20}px) rotate(${Math.random() * 180}deg);
+                        }
+                        50% {
+                            transform: translate(${Math.random() * -20}px, ${Math.random() * 20}px) rotate(${Math.random() * 360}deg);
+                        }
+                        75% {
+                            transform: translate(${Math.random() * -20}px, ${Math.random() * -20}px) rotate(${Math.random() * 540}deg);
+                        }
+                        100% {
+                            transform: translate(0, 0) rotate(0deg);
+                        }
+                    }
+                `;
+
+      const style = document.createElement('style');
+      style.textContent = keyframes;
+      document.head.appendChild(style);
+    }
+  }
+
+  createParticles();
+  
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('fade-in');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1 });
+
+  document.querySelectorAll('.section').forEach(section => {
+    observer.observe(section);
+  });
+
+  console.log('Welcome to my portfolio site!');
+</script>
 </body>
 </html>
