@@ -1,0 +1,6453 @@
+{
+    "width": 20,
+    "height": 20,
+    "objects": [
+        [
+            128,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            0,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            16,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            32,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -32,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -48,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            48,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -48,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            64,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -48,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            80,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -32,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            96,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -32,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            112,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -32,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            128,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -32,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            144,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            160,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            176,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            192,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            208,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            224,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            240,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            256,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            272,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            288,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            304,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            288,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            272,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            256,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            240,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            208,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            192,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            176,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            160,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            144,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            128,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            64,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            48,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            32,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            16,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            -16,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            0,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            80,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            96,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            224,
+            304,
+            16,
+            16,
+            {
+                "sheet": "forest_textures",
+                "x": 128,
+                "y": 48,
+                "width": 16,
+                "height": 16
+            },
+            0,
+            false
+        ],
+        [
+            112,
+            16,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            192,
+            32,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            48,
+            64,
+            16,
+            16,
+            "stone3",
+            1,
+            true
+        ],
+        [
+            256,
+            64,
+            16,
+            16,
+            "stone3",
+            1,
+            true
+        ],
+        [
+            144,
+            64,
+            16,
+            16,
+            "stone3",
+            1,
+            true
+        ],
+        [
+            128,
+            80,
+            16,
+            16,
+            "mystrile_node",
+            1,
+            true
+        ],
+        [
+            48,
+            80,
+            16,
+            16,
+            "silver_node",
+            1,
+            true
+        ],
+        [
+            192,
+            112,
+            16,
+            16,
+            "stone3",
+            1,
+            true
+        ],
+        [
+            112,
+            128,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            240,
+            128,
+            16,
+            16,
+            "mystrile_node",
+            1,
+            true
+        ],
+        [
+            144,
+            160,
+            16,
+            16,
+            "stone3",
+            1,
+            true
+        ],
+        [
+            64,
+            160,
+            16,
+            16,
+            "stone3",
+            1,
+            true
+        ],
+        [
+            272,
+            160,
+            16,
+            16,
+            "silver_node",
+            1,
+            true
+        ],
+        [
+            208,
+            176,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            64,
+            208,
+            16,
+            16,
+            "mystrile_node",
+            1,
+            true
+        ],
+        [
+            208,
+            208,
+            16,
+            16,
+            "mystrile_node",
+            1,
+            true
+        ],
+        [
+            16,
+            208,
+            16,
+            16,
+            "silver_node",
+            1,
+            true
+        ],
+        [
+            144,
+            240,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            80,
+            256,
+            16,
+            16,
+            "copper_node",
+            1,
+            true
+        ],
+        [
+            256,
+            256,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            144,
+            272,
+            16,
+            16,
+            "mystrile_node",
+            1,
+            true
+        ],
+        [
+            64,
+            288,
+            16,
+            16,
+            "gold_node",
+            1,
+            true
+        ],
+        [
+            240,
+            304,
+            16,
+            16,
+            "copper_node",
+            1,
+            true
+        ]
+    ]
+}
